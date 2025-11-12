@@ -1,0 +1,46 @@
+class RouteConst {
+  static const String selectSignup = "/selectSignup";
+  static const String registration = "/registration";
+  static const String hotelInfoSignup = "/hotelInfoSignup";
+  static const String hotelFeatureSignup = "/hotelFeatureSignup";
+  static const String hotelCompatibilitySignup = "/hotelCompatibilitySignup";
+  static const String verifyOtp = "/verifyOtp";
+  static const String createAccount = "/createAccount";
+  static const String dashboard = "/dashboard";
+  static const String languageSelectionScreen = "/languageSelection";
+  static const String selectDocuments = "/selectDocument";
+  static const String verifyDocuments = "/verifyDocuments";
+  static const String uploadPicture = "/uploadPicture";
+  static const String addBankDetails = "/addBankDetails";
+  static const String bookingSelection = "/bookingSelection";
+  static const String bookingServiceRequest = "/bookingServiceRequest";
+  static const String viewRooms = "/viewRooms";
+  static const String amenitiesPage = "/amenitiesPage";
+  static const String wifiPage = "/wifiPage";
+  static const String receptionRequestFormPage = "/receptionRequestFormPage";
+  static const String requestStatusPage = "/requestStatusPage";
+  static const String gymPage = "/gymPage";
+  static const String bookSlotPage = "/bookSlotPage";
+  static const String spaPage = "/spaPage";
+  static const String swimmingPoolPage = "/swimmingPoolPage";
+  static const String paymentPage = "/paymentPage";
+  static const String conciergePage = "/conciergePage";
+  static const String conciergeServiceForm = "/conciergeServiceForm";
+  static const String confirmOrderPage = "/confirmOrderPage";
+  static const String inRoomControlForm = "/inRoomControlForm";
+  static const String sosRequestForm = "/sosRequestForm";
+  static const String extendedServicePage = "/extendedServicePage";
+  static const String foodServicesPage = "/foodServicesPage";
+  static const String selectDateTimePage = "/selectDateTimePage";
+  static const String foodCheckOut = "/foodCheckOutPage";
+  static const String cleaningCheckoutPage = "/cleaningCheckoutPage";
+  static const String orderSummaryPage = "/orderSummaryPage";
+  static const String confirmBookingPage = "/confirmBookingPage";
+  static const String laundaryCheckoutPage = "/laundaryCheckoutPage";
+  static const String toiletriesCheckoutPage = "/toiletriesCheckoutPage";
+  static const String laundaryOrderSummaryPage = "/laundaryOrderSummaryPage";
+  static const String toiletriesOrderSummaryPage =
+      "/toiletriesOrderSummaryPage";
+  static const String bookingServiceStatusPage = "/bookingServiceStatusPage";
+  static const String applyCouponPage = "/applyCouponPage";
+}

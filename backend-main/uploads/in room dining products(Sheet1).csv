@@ -1,0 +1,4 @@
+﻿productType,productName,description,cost,foodType,visibility,imageUrl
+starter,Veg Spring Roll,Crispy rolls with vegetables,150,vegetarian,TRUE,url_to_image
+main course,Butter Chicken,Creamy and spicy chicken,300,non-vegetarian,TRUE,url_to_image
+dessert,Gulab Jamun,Sweet Indian dessert,100,vegetarian,FALSE,url_to_image
